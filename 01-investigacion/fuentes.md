@@ -1,21 +1,4 @@
 # Fuentes de investigación (Perplexity)
-
+comparto chat de perplexity para las fuentes
 Mínimo 3 búsquedas. Una sección por búsqueda.
-
-## Búsqueda 1
-- **Pregunta que hice:**
-- **Dato obtenido:**
-- **Fuente (enlace):**
-- **Fecha de la fuente:**
-
-## Búsqueda 2
-- **Pregunta que hice:**
-- **Dato obtenido:**
-- **Fuente (enlace):**
-- **Fecha de la fuente:**
-
-## Búsqueda 3
-- **Pregunta que hice:**
-- **Dato obtenido:**
-- **Fuente (enlace):**
-- **Fecha de la fuente:**
+[[vizualizar](https://www.perplexity.ai/session/74053f1e-be8c-4d67-be3f-b35df5ea263a)]
